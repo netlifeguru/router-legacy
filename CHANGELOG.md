@@ -7,6 +7,25 @@ and follows the [Keep a Changelog](https://keepachangelog.com/) format.
 
 ---
 
+## [1.0.9] - 2026-02-28
+
+### Deprecated / End of Life
+
+- **Project Sunset**
+  - Development of this specific repository (`NetLifeGuru/router`) has officially ended.
+  - The repository has been marked as deprecated and will be archived (Read-Only).
+  - Added a prominent deprecation notice to the `README.md` to inform the Go community.
+
+### Changed
+- Documentation (`README.md`) updated to reflect the end-of-life status of the project.
+- No functional code changes were introduced in this release.
+
+### Migration & The Future
+
+This architectural iteration has reached its limits. The framework is currently undergoing a complete rewrite.
+
+There is no direct migration path from `v1.0.x` to the upcoming release due to massive architectural improvements. Once the new router is published, a link will be provided in the archived `README.md`.
+
 ## [1.0.8] – 2025-12-02
 
 ### Added
