@@ -1,25 +1,29 @@
 [![Go Version](https://img.shields.io/badge/go-%3E=1.19-blue)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
 
-# 🚀 NetLifeGuru Router v1.0.9
+# 🚀 NetLifeGuru Router v1.1.0
 
 > ⚠️ **DEPRECATED / NO LONGER MAINTAINED** ⚠️
 >
 > Development of this router has officially ended and this repository will no longer receive updates.
 >
-> **Why?**
-> The architecture of this project reached its limits. I have decided to completely rewrite the core from scratch to meet modern performance standards.
+> This repository contains the legacy version of NetLifeGuru Router, up to **v1.0.9**.
 >
-> **What's next?**
-> In the near future, I will release a brand new, framework under a new organization. It will be 100% compatible with the standard `net/http` library.
+> 👉 **Legacy repository:** [github.com/netlifeguru/router-legacy](https://github.com/netlifeguru/router-legacy)
 >
-> Once the new project is ready and published, I will add a direct link here. Thank you for your understanding!
-
-A clean, performant and idiomatic HTTP router & microframework for Go – built for modern backend APIs, apps, and
-full-stack setups.
-
-Includes built-in support for middleware, context, parameterized routing, rate limiting, profiling, static assets, and
-multi-port servers.
+> ## 🚀 NetLifeGuru Router v1.1.0
+>
+> A completely rewritten and actively maintained version of NetLifeGuru Router is now available.
+>
+> 👉 **New repository:** [github.com/netlifeguru/router](https://github.com/netlifeguru/router)
+>
+> Version **v1.1.0** is the first release of the new router line. It introduces a redesigned core architecture built for better long-term maintainability, modern performance expectations, and full compatibility with Go’s standard `net/http` library.
+>
+> **Which version should I use?**
+>
+> - Starting a new project? Use **NetLifeGuru Router v1.1.0** from the new repository.
+> - Already using this package? You can continue using the legacy version, but no new features, improvements, or maintenance updates are planned here.
+> - Need the old codebase? It remains available in this legacy repository for existing projects.
 
 ---
 
