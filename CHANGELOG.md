@@ -7,6 +7,34 @@ and follows the [Keep a Changelog](https://keepachangelog.com/) format.
 
 ---
 
+## [1.1.0] - 2026-05-23
+
+### Deprecated / End of Life
+
+- Development of this repository has officially ended.
+- This is the final release of the legacy `v1.0.x` codebase.
+- No new features, improvements, or maintenance updates are planned here.
+- This repository is now available as the legacy version:
+  [github.com/netlifeguru/router-legacy](https://github.com/netlifeguru/router-legacy)
+
+### Migration
+
+- A new, completely rewritten router is now available as **NetLifeGuru Router v1.1.0**.
+- New repository:
+  [github.com/netlifeguru/router](https://github.com/netlifeguru/router)
+- The new router is the recommended package for all new projects.
+- It provides a redesigned core architecture and remains compatible with Go’s standard `net/http` library.
+
+### Changed
+
+- Updated documentation to reflect the legacy status of this repository.
+- Added direct migration information and repository links.
+- Clarified that `v1.0.9` is the final legacy release.
+
+### Notes
+
+No functional code changes were introduced in this release.
+
 ## [1.0.9] - 2026-02-28
 
 ### Deprecated / End of Life
